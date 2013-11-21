@@ -1,0 +1,3 @@
+Build / run example:
+
+cobc -x prog2.cbl -free -o bin/prog2 && ./bin/prog2
